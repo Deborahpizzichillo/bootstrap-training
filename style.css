@@ -1,0 +1,39 @@
+body {
+  line-height: 35px;
+}
+
+a {
+  background-color: #B36EE5;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #000;
+  color: initial;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #A0266F;
+  color: #FFF;
+  text-decoration: none;
+  transform: scale(1.1);
+}
+
+.bg {
+  background-color: #D98CF4;
+}
+
+.center_h {
+  display: flex;
+  justify-content: center;
+}
+
+.border_b {
+  border-style: solid;
+  border-color: #000;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.marg {
+  margin: 5px 0px;
+}
